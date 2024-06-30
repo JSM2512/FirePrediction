@@ -1,6 +1,7 @@
 # FirePrediction
 
 FirePrediction is a machine learning project designed to forecast the occurrence of forest fires using advanced modeling techniques and data-driven insights. Leveraging the Algeria Forest Fire Dataset sourced from Kaggle, this project aims to develop predictive models that can effectively anticipate fire incidents based on historical data and environmental variables.
+
 Algeria Forest Fire Dataset : https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset
 
 # Methodology
