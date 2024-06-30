@@ -43,8 +43,8 @@ Model Accuracy based on r2-Score : 98.4%
     ```
 3. Create and activate a virtual environment:
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    python -m venv venv1
+    source venv1/bin/activate  # On Windows use `venv1\Scripts\activate`
     ```
 4. Install the required dependencies:
     ```bash
