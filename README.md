@@ -39,6 +39,7 @@ A machine learning project aimed at predicting the occurrence of fires using var
 2. Access the web interface at `http://127.0.0.1:5000`.
 
 ## Project Structure
+```
 FirePrediction/
 ├── .ebextensions/
 ├── models/
@@ -57,7 +58,7 @@ FirePrediction/
 ├── application.py
 ├── requirements.txt
 └── README.md
-
+```
 
 - `.ebextensions/`: Configuration files for AWS Elastic Beanstalk.
 - `models/`: Pre-trained machine learning models.
