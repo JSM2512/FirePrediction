@@ -4,6 +4,7 @@ FirePrediction is a machine learning project designed to forecast the occurrence
 
 #### Algeria Forest Fire Dataset : https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset
 
+
 ## Methodology
 The project employs a multifaceted approach to model development, beginning with exploratory data analysis (EDA) and preprocessing tasks in Jupyter Notebooks. Data preprocessing involves handling missing values, feature scaling, feature selection and possibly feature engineering to extract more meaningful insights from the dataset.
 
@@ -14,6 +15,7 @@ Model Accuracy based on r2-Score : 98.4%
 ![image](https://github.com/JSM2512/FirePrediction/assets/49087609/91c5351a-9a93-4559-a6cc-3c956c56d156)
 
 - This Linear relation between the Ground Truth and Predicted values of test data shows model is performing well.
+
 
 ## Explore Notebooks:
 [![EDA Notebook](https://img.shields.io/badge/EDA-Explore-green)](notebooks/Algerian%20Forest%20EDA%20and%20Data%20CleaningRidge,%20Lasso%20Regression.ipynb)
