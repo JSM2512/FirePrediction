@@ -1,6 +1,26 @@
 # FirePrediction
 
-A machine learning project aimed at predicting the occurrence of fires using various models and techniques.
+FirePrediction is a machine learning project designed to forecast the occurrence of forest fires using advanced modeling techniques and data-driven insights. Leveraging the Algeria Forest Fire Dataset sourced from Kaggle, this project aims to develop predictive models that can effectively anticipate fire incidents based on historical data and environmental variables.
+Algeria Forest Fire Dataset : https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset
+
+# Methodology
+The project employs a multifaceted approach to model development, beginning with exploratory data analysis (EDA) and preprocessing tasks in Jupyter Notebooks. Data preprocessing involves handling missing values, feature scaling, feature selection and possibly feature engineering to extract more meaningful insights from the dataset.
+
+Following preprocessing, multiple machine learning algorithms are explored using scikit-learn (SKLearn) within Jupyter Notebooks. Various models such as Ridge Regression, RidgeCV, Lasso, LassoCV, ElasticNet, ElasticNetCV are trained and evaluated to identify the most effective model for fire prediction. 
+
+Model Accuracy based on r2-Score : 98.4% 
+
+![image](https://github.com/JSM2512/FirePrediction/assets/49087609/91c5351a-9a93-4559-a6cc-3c956c56d156)
+
+- This Linear relation between the Ground Truth and Predicted values of test data shows model is performing well.
+
+## Tech Stack
+- Flask
+- Jupyter Notebook
+- SKLearn
+- Python
+- HTML
+- CSS
 
 ## Table of Contents
 
