@@ -16,8 +16,8 @@ Model Accuracy based on r2-Score : 98.4%
 - This Linear relation between the Ground Truth and Predicted values of test data shows model is performing well.
 
 ### Explore Notebooks:
-[![EDA Notebook](https://img.shields.io/badge/EDA-Explore-green)](notebooks/data_preprocessing.ipynb)
-[![Model Training Notebook](https://img.shields.io/badge/Model%20Training-Train-blue)](notebooks/model_training.ipynb)
+[![EDA Notebook](https://img.shields.io/badge/EDA-Explore-green)](notebooks/Algerian Forest EDA and Data CleaningRidge, Lasso Regression.ipynb)
+[![Model Training Notebook](https://img.shields.io/badge/Model%20Training-Train-blue)](notebooks/Algerian Forest Model Training Cleaned LASSO RIDGE ELASTICNET.ipynb)
 
 ## Tech Stack
 - Flask
