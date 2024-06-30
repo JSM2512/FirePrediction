@@ -94,6 +94,6 @@ FirePrediction/
 - `application.py`: The main application file.
 - `requirements.txt`: List of dependencies required for the project.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or enhancements.
