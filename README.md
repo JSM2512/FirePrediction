@@ -18,7 +18,7 @@ Model Accuracy based on r2-Score : 98.4%
 
 
 ## Explore Notebooks:
-[![EDA Notebook](https://img.shields.io/badge/EDA-Explore-green)](notebooks/Algerian%20Forest%20EDA%20and%20Data%20CleaningRidge,%20Lasso%20Regression.ipynb)
+[![EDA Notebook](https://img.shields.io/badge/Exploratory%20Data%20Analysis-Explore-green)](notebooks/Algerian%20Forest%20EDA%20and%20Data%20CleaningRidge,%20Lasso%20Regression.ipynb)
 [![Model Training Notebook](https://img.shields.io/badge/Model%20Training-Train-blue)](notebooks/Algerian%20Forest%20Model%20Training%20Cleaned%20LASSO%20RIDGE%20ELASTICNET.ipynb)
 
 ## Tech Stack
